@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Akhil Bhartiya Brahman Mahasangh - Andhra Pradesh",
+    "slug": "ab-brahman-mahasangh-ap",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#fffbd0"
+    },
+    "android": {
+      "package": "com.abbrahmanmahasangh.ap"
+    },
+    "ios": {
+      "bundleIdentifier": "com.abbrahmanmahasangh.ap"
+    }
+  }
+}
